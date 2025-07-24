@@ -108,5 +108,4 @@ Expand dataset to include more disease categories
 🧑‍💻 Author
 Abhay Kumar
 B.Tech CSE | Data Science & Machine Learning Enthusiast
-LinkedIn | GitHub
 
